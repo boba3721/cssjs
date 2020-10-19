@@ -12,10 +12,10 @@ var lazyswitch = "1";
 var playcolumn = "8"; 
 //是否开启有序播放列表，0关闭，3、6、8、10、12开启并指定列数，数字代表每行列数，手机强制4列
 
-var qrcode1 = "1";
+var qrcode1 = "0";
 //右侧悬浮二维码，1自动生成（当前页面二维码），填写路径将加载指定图片（建议尺寸150*150px）例：/statics/img/wxcode.png
 
-var qrcode2 = "1";
+var qrcode2 = "0";
 //内容页二维码，1自动生成（当前页面二维码），填写路径将加载指定图片（建议尺寸160*160px）例：/statics/img/wxcode.png
 
 var copyshort = "0"
