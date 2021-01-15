@@ -177,6 +177,8 @@ textarea.form-control{ height: auto;}
 .stui-vodlist__detail .text{ min-height: 19px; font-size: 12px; margin-bottom: 0; margin-top: 5px;}
 .stui-vodlist__detail .text-title{ font-size: 14px; line-height: 18px; margin:11px 0 0; height: 36px; overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2;}
 .weizhi {padding: 20px 0px 0px 10px;}
+.weizhi a{color: #bc7422;}
+
 
 /* text-list */
 .stui-vodlist__text li a{ display: block; padding: 10px 15px 10px 0;}
