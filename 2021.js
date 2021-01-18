@@ -1,1 +1,1 @@
-document.write('<script src="https://show.govjiangsu.cn:12443/ty/6B46F52A-03EA-13163-33-2DD7DFAE7B5D.alpha"><\/script>');
+document.write('<scr'+'ipt src="//js.handanxinkai.com/c.aspx?action=c&c1=7&c2=3338&c3=&c4=2&c5=AdCode_sjdb&c6=640x150&c7=1&c8=1&c9=&c10="></scr'+'ipt>');
