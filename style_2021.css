@@ -189,7 +189,7 @@ textarea.form-control{ height: auto;}
 
 /* media-list */
 .stui-vodlist__media li {padding: 0px 0px 10px 0px;width: 25%;float: left;}
-.stui-vodlist__media li.kuan {padding: 0px 0px 10px 0px;width: 100% !important;}
+.stui-vodlist__media li.kuan {padding: 0px 0px 30px 0px;width: 100% !important;}
 
 .stui-vodlist__media.active li:first-child{ padding-top: 0;}
 .stui-vodlist__media.active li:last-child{ padding-bottom: 0;}
