@@ -199,7 +199,7 @@ textarea.form-control{ height: auto;}
 .stui-vodlist__media li .thumb .f-thumb{ width: 120px;}
 .stui-vodlist__media li .thumb .m-thumb{ width: 65px;}
 .stui-vodlist__media li .detail{ width: 100%; padding:0 20px 0;}
-.stui-vodlist__media li .detail-side{ padding:0 10px 0;}
+.stui-vodlist__media li .detail-side{padding:0 10px 0;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
 .stui-vodlist__media li .detail-left{ padding: 0 20px 0 0;}
 .stui-vodlist__media li .detail .title{ margin: 10px 0 10px;}
 
