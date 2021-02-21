@@ -362,7 +362,7 @@ textarea.form-control{ height: auto;}
 @media (min-width: 1200px){	
 	.visible-lg { display: block !important;}
 	.hidden-lg {display: none !important;}	
-	#a1 {height:500px}
+	#a1 {height:550px}
 }
 
 @media (max-width: 1199px) and (min-width: 992px){
@@ -410,7 +410,7 @@ textarea.form-control{ height: auto;}
 	.stui-modal__dialog{ width: 320px; margin: 50px auto;}
 	
 @media (max-width: 767px){
-	#a1 {height:350px}
+	#a1 {height:300px}
 	.visible-xs { display: block !important;}
 	.hidden-xs {display: none!important;}
 	.stui-vodlist__media li {padding: 0px 0px 10px 0px;width: 50%;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;float: left;}
@@ -521,7 +521,7 @@ textarea.form-control{ height: auto;}
 @media (max-width: 374px){
 	.visible-mi{ display: block !important;}
 	.hidden-mi{display: none !important;}
-	 #a1 {height:250px}
+	 #a1 {height:230px}
 	
 	/* media-list */
 	.stui-vodlist__media li .thumb .v-thumb{ width: 90px;}
