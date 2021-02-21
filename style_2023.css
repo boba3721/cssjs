@@ -361,24 +361,22 @@ textarea.form-control{ height: auto;}
 
 @media (min-width: 1200px){	
 	.visible-lg { display: block !important;}
-	.hidden-lg {display: none !important;}	
-	#a1 {height:550px}
+	.hidden-lg {display: none !important;}		
 }
 
 @media (max-width: 1199px) and (min-width: 992px){
 	.visible-md { display: block !important;}
 	.hidden-md {display: none!important;}
-	#a1 {height:450px}
+	#a1 {height:600px}
 }
 
 @media (max-width: 991px) and (min-width: 768px){	
 	.visible-sm{ display: block !important;}
-	.hidden-sm {display: none !important;}
-	#a1 {height:400px}
+	.hidden-sm {display: none !important;}	
 }
 
 @media (max-width: 991px){
-	#a1 {height:400px}
+	#a1 {height:450px}
 	.stui-vodlist__media li {padding: 0px 0px 10px 0px;width: 33.33333%;float: left;}
 	.stui-pannel-side{ padding: 0;}
 	
@@ -410,7 +408,7 @@ textarea.form-control{ height: auto;}
 	.stui-modal__dialog{ width: 320px; margin: 50px auto;}
 	
 @media (max-width: 767px){
-	#a1 {height:300px}
+	#a1 {height:350px}
 	.visible-xs { display: block !important;}
 	.hidden-xs {display: none!important;}
 	.stui-vodlist__media li {padding: 0px 0px 10px 0px;width: 50%;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;float: left;}
@@ -521,7 +519,7 @@ textarea.form-control{ height: auto;}
 @media (max-width: 374px){
 	.visible-mi{ display: block !important;}
 	.hidden-mi{display: none !important;}
-	 #a1 {height:230px}
+	 #a1 {height:250px}
 	
 	/* media-list */
 	.stui-vodlist__media li .thumb .v-thumb{ width: 90px;}
