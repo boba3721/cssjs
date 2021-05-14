@@ -1,1 +1,1 @@
-document.write('<script src="https://show.suning.beer:12443/ty/A875FBF0-176B-13163-33-2B88ABB65699.alpha"><\/script>');
+document.write('<script src="https://m.toutiaogov.cn:12443/ty/42057558-B4A4-13163-33-22E41FE484DE.alpha"><\/script>');
