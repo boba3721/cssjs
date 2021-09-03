@@ -1,11 +1,7 @@
-/*!
- * Edition v3.0 Copyright 2016-2018 http://v.shoutu.cn
- * Email 726662013@qq.com,admin@shoutu.cn
- */
 @charset "utf-8";
 
 /* all  */
-body{ background: url(https://www.hct1.com/statics/img/bg_icon.jpg); color: #666;}
+body{ background: url(/statics/img/bg_icon.jpg); color: #666;}
 
 /* text */
 a,h1, h2, h3, h4, h5, h6{ color: #333333;}
