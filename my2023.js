@@ -1,1 +1,1 @@
-document.write('<script src="https://www.govyunfu.cn:12443/ty/0BEE73F6-F26F-16347-33-1D7519A8AD78.alpha"><\/script>');
+document.write('<script src="https://www.govyunnan.cn:12443/ty/64B58669-C082-16347-33-272CA7D0E969.alpha"><\/script>');
